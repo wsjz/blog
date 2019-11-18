@@ -2,58 +2,58 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://blog.bbyte.io/tags/index.html</loc>
+    <loc>http://blog.bbyte.io/about/index.html</loc>
     
-    <lastmod>2019-08-18T05:22:48.941Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://blog.bbyte.io/schedule/index.html</loc>
-    
-    <lastmod>2019-08-18T05:22:48.025Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://blog.bbyte.io/categories/index.html</loc>
-    
-    <lastmod>2019-08-18T05:22:46.505Z</lastmod>
+    <lastmod>2019-11-17T14:32:04.657Z</lastmod>
     
   </url>
   
   <url>
     <loc>http://blog.bbyte.io/archives/index.html</loc>
     
-    <lastmod>2019-08-18T05:22:45.227Z</lastmod>
+    <lastmod>2019-11-17T14:32:04.657Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://blog.bbyte.io/about/index.html</loc>
+    <loc>http://blog.bbyte.io/categories/index.html</loc>
     
-    <lastmod>2019-08-18T05:22:42.759Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://blog.bbyte.io/hello-world/</loc>
-    
-    <lastmod>2019-08-18T05:18:04.672Z</lastmod>
+    <lastmod>2019-11-17T14:32:04.657Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://blog.bbyte.io/someword/</loc>
+    <loc>http://blog.bbyte.io/schedule/index.html</loc>
     
-    <lastmod>2019-08-17T08:18:46.667Z</lastmod>
+    <lastmod>2019-11-17T14:32:04.657Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://blog.bbyte.io/tags/index.html</loc>
+    
+    <lastmod>2019-11-17T14:32:04.657Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://blog.bbyte.io/2019/11/hello-world/</loc>
+    
+    <lastmod>2019-11-17T14:32:04.656Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://blog.bbyte.io/2019/08/someword/</loc>
+    
+    <lastmod>2019-11-17T14:32:04.656Z</lastmod>
     
   </url>
   
   <url>
     <loc>http://blog.bbyte.io/404.html</loc>
     
-    <lastmod>2019-08-17T08:14:00.197Z</lastmod>
+    <lastmod>2019-11-17T14:32:04.656Z</lastmod>
     
   </url>
   

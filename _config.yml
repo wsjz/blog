@@ -8,14 +8,14 @@ subtitle: Stay Crazy
 description: "site"
 keywords: "bbyte"
 author: "bbyte"
-language: "en"
+language: "zh-CN"
 timezone: "Asia/Shanghai"
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: http://blog.bbyte.io
 root: /
-permalink: :title/
+permalink: :year/:month/:title/
 permalink_defaults:
 
 # Directory
@@ -31,7 +31,7 @@ skip_render:
     - CNAME
 
 # Writing
-new_post_name: :title.md # File name of new posts
+new_post_name: :year/:title.md # File name of new posts
 default_layout: post
 titlecase: false # Transform title into titlecase
 external_link: true # Open external links in new tab
@@ -120,10 +120,10 @@ live2d:
     vHeadPos: 0.618
   display:
     superSample: 2
-    position: right
+    position: left
     width: 150
     height: 300
-    hOffset: 70
+    hOffset: 20
     vOffset: -20
   mobile:
     show: false

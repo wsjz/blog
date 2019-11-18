@@ -106,6 +106,9 @@
     </div>
     {% include '_partials/pjax.swig' %}
   {%- endif %}
+  <div class="bg_content">
+    <canvas id="canvas"></canvas>
+  </div>
 </body>
 </html>
   <!-- 页面点击小红心 -->
@@ -117,3 +120,5 @@
 <script type="text/javascript" src="/js/crash_cheat.js"></script>
 
 <!-- <script src="/live2d-widget/autoload.js"></script> -->
+
+<script type="text/javascript" src="/js/dynamic_bg.js"></script>
