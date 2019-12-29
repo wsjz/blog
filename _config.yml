@@ -13,7 +13,7 @@ timezone: "Asia/Shanghai"
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://blog.bbyte.io
+url: http://blog.wsjz.io
 root: /
 permalink: :year/:month/:title/
 permalink_defaults:
